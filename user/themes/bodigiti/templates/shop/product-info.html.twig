@@ -63,8 +63,15 @@
           {% if s.md == true %}<option class="size" value="M">M</option>{% endif %}
           {% if s.lg == true %}<option class="size" value="L">L</option>{% endif %}
         </select>
-      {% endif %}
 
+        {# Custom Size Ordering #}
+        <div class="custom-order">
+          <p>Don't see the size you need?
+          <a href="/contact" style="color: #CC3333;">Contact</a> us to custom order it.</p>
+        </div> 
+
+      {% endif %}
+      
       {# Size Chooser Error message: relies on js and css #}
       <div class="error-message">Please select a size</div>
 
