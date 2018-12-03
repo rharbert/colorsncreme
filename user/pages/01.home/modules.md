@@ -134,7 +134,7 @@ module:
             -
                 module__admin_title_child: 'Did You Know?'
                 module_type: module__text_image
-                text_image__textarea: "<div class=\"paragraph paragraph--featured-content margin-top-bottom__none\">\r\n    <a href=\"/about\" class=\"field-group-link\">\r\n\t\t<div class=\"featured-text\">\r\n            <div class=\"text-summary\"><h2>Did You Know?</h2></div>\r\n            <p>Alice is a 13-year old self-taught artist who has been drawing since she was a baby.</p>\r\n          <div style=\"margin-bottom: 1rem;\">More about Alice +</div>\r\n\t\t</div>\r\n \t\t<div class=\"featured-image\">\r\n            <img src=\"/user/pages/01.home/alice-draws-studio-2.jpg\">\r\n\t\t</div>\r\n\t</a>\r\n</div>"
+                text_image__textarea: "<div class=\"paragraph paragraph--featured-content margin-top-bottom__none\">\r\n    <a href=\"/about\" class=\"field-group-link\">\r\n\t\t<div class=\"featured-text\">\r\n            <div class=\"text-summary\"><h2>Did You Know?</h2></div>\r\n            <p>Alice is a 13-year old self-taught artist who has been drawing since she was a baby.</p>\r\n          <div style=\"margin-bottom: 1rem;\">More about Alice +</div>\r\n\t\t</div>\r\n \t\t<div class=\"featured-image\">\r\n            <img src=\"/user/pages/01.home/alice-draws-studio-2.jpg\" alt=\"Alice drawing in her studio\">\r\n\t\t</div>\r\n\t</a>\r\n</div>"
                 module_styles__text_child: col-12
                 module_styles__select_child:
                     - background__gray1
