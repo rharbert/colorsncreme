@@ -1,4 +1,5 @@
 # Bodigiti Gitignore!
+sftp.json
 
 # Composer
 .composer
